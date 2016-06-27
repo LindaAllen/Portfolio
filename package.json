@@ -1,0 +1,29 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LindaAllen/Portfolio.git"
+  },
+  "author": "Linda Allen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LindaAllen/Portfolio/issues"
+  },
+  "homepage": "https://github.com/LindaAllen/Portfolio#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.10",
+    "gulp-gzip": "^1.4.0",
+    "gulp-imagemin": "^3.0.1",
+    "gulp-open": "^2.0.0",
+    "gulp-prettify": "^0.4.0",
+    "gulp-s3-gzip": "^0.3.2",
+    "gulp-webserver": "^0.9.1"
+  }
+}

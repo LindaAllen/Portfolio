@@ -1,0 +1,4 @@
+build/
+node_modules/
+aws.json
+.DS_STORE
