@@ -46,3 +46,7 @@ a.inert:visited {
 .text-feature 
 	{font-size: 20px;}
 }
+
+.col-md-4 {
+    padding-top: 20px;
+}
