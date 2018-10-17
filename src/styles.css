@@ -20,13 +20,13 @@ body {
 a.inert:link {
     text-decoration: inherit;
     color: inherit;
-    cursor: auto;
+    cursor: pointer;
 }
 
 a.inert:visited {
     text-decoration: inherit;
     color: inherit;
-    cursor: auto;
+    cursor: pointer;
 }
 
 .mask {
@@ -49,4 +49,8 @@ a.inert:visited {
 
 .col-md-4 {
     padding-top: 20px;
+}
+
+.footer {
+	text-align: right;
 }
