@@ -2,35 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="501fef0e-2ded-4e5a-af6d-cecb55c1fff9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/android-chrome-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/android-chrome-36x36.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/android-chrome-48x48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/android-chrome-72x72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/android-chrome-96x96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apple-touch-icon-114x114.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apple-touch-icon-120x120.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apple-touch-icon-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apple-touch-icon-152x152.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apple-touch-icon-57x57.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apple-touch-icon-60x60.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apple-touch-icon-72x72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apple-touch-icon-76x76.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apple-touch-icon-precomposed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/android-chrome-192x192.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/android-chrome-192x192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/android-chrome-256x256.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/apple-touch-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/browserconfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/browserconfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/favicon-16x16.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/favicon-32x32.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/favicon-96x96.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/src/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/arlington.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/behance.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/burkholder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/comingsoon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/emmys.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/wedding.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/yangs.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mstile-144x144.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/mstile-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/mstile-150x150.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mstile-310x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mstile-310x310.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mstile-70x70.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/safari-pinned-tab.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/safari-pinned-tab.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/site.webmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/src/site.webmanifest" afterDir="false" />
     </list>
     <ignored path="Portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -52,8 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+            <state relative-caret-position="271">
+              <caret line="152" column="111" selection-start-line="152" selection-start-column="111" selection-end-line="152" selection-end-column="111" />
             </state>
           </provider>
         </entry>
@@ -83,8 +72,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="264" />
-    <option name="y" value="34" />
+    <option name="x" value="8" />
+    <option name="y" value="23" />
     <option name="width" value="1439" />
     <option name="height" value="797" />
   </component>
@@ -339,7 +328,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1475016093901</updated>
-      <workItem from="1551737861899" duration="466000" />
+      <workItem from="1551737861899" duration="4958000" />
     </task>
     <task id="LOCAL-00001" summary="Rows/Modals 2&amp;3">
       <created>1475022002470</created>
@@ -352,10 +341,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="466000" />
+    <option name="totallyTimeSpent" value="4958000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="264" y="34" width="1439" height="797" extended-state="0" />
+    <frame x="8" y="23" width="1439" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20521861" />
@@ -405,8 +394,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+        <state relative-caret-position="271">
+          <caret line="152" column="111" selection-start-line="152" selection-start-column="111" selection-end-line="152" selection-end-column="111" />
         </state>
       </provider>
     </entry>
